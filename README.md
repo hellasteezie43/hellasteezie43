@@ -1,16 +1,13 @@
-## Hi there 👋
+# yo, i'm hellasteezie43 👋
 
-<!--
-**hellasteezie43/hellasteezie43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on open-source contributions
+- 🌱 Learning JavaScript
+- 📚 Currently reading whatever the docs link to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=hellasteezie43&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hellasteezie43&hide_border=true&theme=dracula" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Go-2dd4bf?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Docker-2dd4bf?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-2dd4bf?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Neovim-2dd4bf?style=for-the-badge&logoColor=white" alt="Neovim" />
